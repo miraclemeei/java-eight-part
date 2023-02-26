@@ -651,7 +651,7 @@ String [] result = orgStr.split(",");
 StringTokenizer tokener = StringTokenizer(orgStr,",");
 String [] result = new String[tokener .countTokens()];
 Int i=0;
-while(tokener.hasNext(){result[i++]=toker.nextToken();}
+while(tokener.hasNext()){result[i++]=toker.nextToken();}
 ```
 # 35.数组有没有length()这个方法? String有没有length()这个方法？
 
